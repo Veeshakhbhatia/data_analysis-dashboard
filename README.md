@@ -1,4 +1,3 @@
-<img width="398" alt="Screenshot 2025-01-29 181727" src="https://github.com/user-attachments/assets/451b7b2d-455a-4cce-8391-feb9cf004992" />
 Mobile Sales Dashboard Analysis
 
 Project Overview
@@ -38,5 +37,6 @@ What are the key factors contributing to the increase or decrease in sales?
 Dashboard
 
 <img width="398" alt="Screenshot " src="https://github.com/user-attachments/assets/3bbe5de0-81a1-4709-8c03-1106ce64cd4d" />
+<img width="398" alt="Screenshot 2025-01-29 181727" src="https://github.com/user-attachments/assets/451b7b2d-455a-4cce-8391-feb9cf004992" />
 
 
