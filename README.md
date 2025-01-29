@@ -24,4 +24,9 @@ Which day of the week had the highest sales?
 How does sales performance compare across quarters?
 Year-on-Year Comparison-
 How does the sales trend of the current year compare with the same period last year?
-What are the key factors contributing to the increase or decrease in sales?# data_analysis-dashboard
+What are the key factors contributing to the increase or decrease in sales?
+
+##Dashboard
+<img width="398" alt="Screenshot " src="https://github.com/user-attachments/assets/3bbe5de0-81a1-4709-8c03-1106ce64cd4d" />
+
+
