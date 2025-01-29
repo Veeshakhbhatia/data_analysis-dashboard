@@ -1,3 +1,4 @@
+<img width="398" alt="Screenshot 2025-01-29 181727" src="https://github.com/user-attachments/assets/451b7b2d-455a-4cce-8391-feb9cf004992" />
 Mobile Sales Dashboard Analysis
 
 Project Overview
